@@ -190,7 +190,7 @@ A systems-oriented analytics project focused on baseline modeling and threshold 
 
 ![Views](https://komarev.com/ghpvc/?username=hiifza&color=B892FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hiifza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E1A&title_color=B892FF&icon_color=2CE8D5&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hiifza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E1A&title_color=B892FF&icon_color=2CE8D5&text_color=c9d1d9"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiifza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E1A&title_color=B892FF&text_color=c9d1d9"/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=hiifza&theme=tokyonight&hide_border=true&background=0B0E1A&ring=B892FF&fire=2CE8D5&currStreakLabel=2CE8D5"/>
